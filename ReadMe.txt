@@ -1,4 +1,4 @@
-ChitChat is the web app Built on Codeigniter framework. The essential files are being updated and can be used.This is used for sending message to another user registered on this network. 
+ChitChat is the web app Built using CodeIgniter PHP. Uses Different form libraries to validate user data & helps to send messages to other users. 
 	* Controller: Sign.php
 	* Model     : Sign_Model.php
-	* Remaining files are Views.
+	
